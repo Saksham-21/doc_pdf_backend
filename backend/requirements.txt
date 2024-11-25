@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+aiofiles
+docx2pdf
+pikepdf
+python-multipart
+python-dotenv
+boto3
